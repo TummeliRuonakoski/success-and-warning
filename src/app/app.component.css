@@ -1,0 +1,10 @@
+section >*{
+    padding: 5px;
+    margin: 5px;
+}
+@media screen and (min-width: 426px) {
+    section{
+        display: flex;
+    }
+    
+}

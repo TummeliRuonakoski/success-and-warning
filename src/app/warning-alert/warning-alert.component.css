@@ -1,0 +1,13 @@
+section{
+    background-color: #FDF3D2;
+    color: #816620;
+    padding: 4px;
+
+}
+section >*{
+    margin: 10px;
+}
+
+hr{
+    border: 1px solid #FDF3D2;
+}

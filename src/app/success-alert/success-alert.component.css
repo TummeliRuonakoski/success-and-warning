@@ -1,0 +1,18 @@
+section{
+    background-color: #D9ECDA;
+    color: #2A5629;
+    padding: 4px;
+}
+
+section >*{
+    margin: 10px;
+
+}
+
+hr{
+    height: 1px;
+    color: #2A5629;
+    background-color: #2A5629;
+    border: none;
+    opacity: 0.1;
+}
